@@ -1,0 +1,90 @@
+﻿{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "est de {@minRTP} %",
+        "RTPrange": "est compris entre {@minRTP} % et {@maxRTP} %",
+        "paybackTitle": "Remboursement escompté",
+        "paybackBody": "Pour ce jeu, le remboursement escompté théorique sur le long terme est de {RTP}.",
+        "subheading": "Mises : {ticketCost}",
+        "prizeLevel": "Rang de gains",
+        "prizeValue": "Valeur des gains",
+        "overallChances": "Il y a au total 1 chance sur {odds} de remporter un gain pour chaque partie.",
+        "prizeDivision": "Rang de gains",
+        "prizeRemaining": "Gains restants approximatif",
+        "oddsPerPlay": "Chance par partie"
+    },
+    "title": "MODÈLE",
+    "MenuCommand":
+    {
+        "price": "Prix",
+        "stake": "Mise",
+        "howToPlay": "Fichier d'aide",
+        "paytable": "Table des paiements",
+        "close": "Fermer",
+        "audio":
+        {
+            "sound": "Son",
+            "on": "ON",
+            "off": "OFF"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Erreur : ",
+        "genericErrorText": "Une erreur interne s'est produite. QUITTEZ et relancez le jeu."
+    },
+    "Game":
+    {
+        "footer_balance": "SOLDE",
+        "footer_ticketCost": "MISES",
+        "ticketSelect_ticketCost": "MISES",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": ""
+        },
+        "footer_win":
+        {
+            "BUY": "GAIN",
+            "TRY": "GAIN"
+        },
+
+        "button_buy":
+        {
+            "BUY": "ACHETER JEU",
+            "TRY": "ESSAYER"
+        },
+        "button_try": "ESSAYER",
+        "button_continue": "CONTINUER",
+        "button_moveToMoney": "MISER DE L’ARGENT RÉEL",
+        "button_autoPlay": "TOUT RÉVÉLER",
+        "button_stop": "ARRÊTER",
+        "button_playAgain":
+        {
+            "BUY": "ACHETER JEU",
+            "TRY": "ESSAYER"
+        },
+        "button_tryAgain": "ESSAYER",
+        "button_ok": "OK",
+        "button_exit": "SORTIR",
+        "button_retry": "RÉESSAYER",
+        "error_button_exit": "SORTIR",
+        "error_title": "ERREUR",
+
+        "message_nonWin": "VOUS AUREZ PLUS DE CHANCE\nLA PROCHAINE FOIS",
+        "message_win":
+        {
+            "BUY": "FÉLICITATIONS !\nVOUS AVEZ GAGNÉ",
+            "TRY": "MERCI D’AVOIR JOUÉ !\nVOUS AURIEZ PU GAGNER"
+        },
+
+        "howToPlay": "COMMENT JOUER",
+        "page1": "Faites correspondre n'importe quel NUMÉRO CHANCE à n'importe quel NUMÉRO et remportez un prix.\n\nRévélez un symbole MULTIPLICATEUR et remportez un prix multiplié instantanément !\n\nSélectionnez une MISE plus élevée pour augmenter la gamme de MULTIPLICATEURS disponibles !",
+
+        "winUpTo": "GAGNEZ JUSQU'À {0}",
+
+        "yourNumbers": "VOS NUMÉROS",
+        "luckyNumbers": "NUMÉROS GAGNANTS"
+    }
+}

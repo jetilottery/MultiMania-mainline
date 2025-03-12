@@ -1,0 +1,81 @@
+﻿{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% do {@maxRTP}%",
+    "paybackTitle": "Oczekiwany zwrot",
+    "paybackBody": "Długoterminowy, teoretycznie oczekiwany zwrot w tej grze wynosi {RTP}.",
+    "subheading": "Opłata za LOS: {ticketCost}",
+    "prizeLevel": "Stopień wygranej",
+    "prizeValue": "Wartość wygranej",
+    "overallChances": "Łączna szansa wygrania nagrody w każdej rozgrywce wynosi 1 do {odds}.",
+    "prizeDivision": "Stopień wygranej",
+    "prizeRemaining": "Pozostała przybliżona liczba nagród",
+    "oddsPerPlay": "Szansa na wygraną"
+
+  },
+  "title": "SZABLON",
+  "MenuCommand": {
+    "price": "Cena",
+    "stake": "Stawka",
+    "howToPlay": "Zasady gry",
+    "paytable": "Tabela wygranych",
+    "close": "Zamknij",
+    "audio": {
+      "sound": "Dźwięk",
+      "on": "Wł.",
+      "off": "Wył."
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Błąd: ",
+    "genericErrorText": "Wystąpił błąd wewnętrzny. WYJDŹ i uruchom ponownie grę."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "OPŁATA ZA LOS",
+    "ticketSelect_ticketCost": "OPŁATA ZA LOS",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "DEMO "
+    },
+    "footer_win": {
+      "BUY": "WYGRANA",
+      "TRY": "WYGRANA DEMO"
+    },
+
+    "button_buy": {
+      "BUY": "PŁACĘ",
+      "TRY": "DEMO"
+    },
+    "button_try": "DEMO",
+    "button_continue": "KONTYNUUJ",
+    "button_moveToMoney": "GRAJ ZA PIENIĄDZE",
+    "button_autoPlay": "AUTO",
+    "button_stop": "STOP",
+    "button_playAgain": {
+      "BUY": "GRAJ PONOWNIE",
+      "TRY": "SPRÓBUJ PONOWNIE"
+    },
+    "button_tryAgain": "SPRÓBUJ PONOWNIE",
+    "button_ok": "OK",
+    "button_exit": "WYJDŹ",
+	"button_retry": "SPRÓBUJ PONOWNIE",
+    "error_button_exit": "WYJDŹ",
+    "error_title": "BŁĄD",
+
+    "message_nonWin": "POWODZENIA NASTĘPNYM\nRAZEM",
+    "message_win": {
+      "BUY": "GRATULACJE!\nTWOJA WYGRANA TO:",
+      "TRY": "DZIĘKUJEMY ZA GRĘ!\nMOŻNA BYŁO WYGRAĆ"
+    },
+
+    "howToPlay": "ZASADY GRY",
+    "page1": "Dopasuj Twoje liczby do szczęśliwych liczb i wygraj.\n\nOdkryj symbol MNOŻNIKA, aby natychmiast pomnożyć wygraną!\n\nWybierz wyższą OPŁATĘ ZA LOS, aby zwiększyć zakres dostępnych MNOŻNIKÓW!",
+
+    "winUpTo": "WYGRAJ DO {0}",
+
+    "yourNumbers": "TWOJE LICZBY",
+    "luckyNumbers": "SZCZĘŚLIWE LICZBY"
+  }
+}

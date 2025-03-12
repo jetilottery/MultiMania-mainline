@@ -1,0 +1,39 @@
+{"frames": {
+
+"WinPlaqueStars_022":
+{
+	"frame": {"x":494,"y":3,"w":467,"h":485},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":74,"w":467,"h":485},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_041":
+{
+	"frame": {"x":3,"y":487,"w":485,"h":474},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":68,"w":485,"h":474},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_042":
+{
+	"frame": {"x":3,"y":3,"w":487,"h":480},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":66,"w":487,"h":480},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaqueEffectsColor-4.png",
+	"format": "RGBA8888",
+	"size": {"w":964,"h":964},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f515373fa8673e1d733bebbf744c955b:824a601723247dbde44311683277ae3f:3d076db30b2c28a5dad035f67245fb7b$"
+}
+}

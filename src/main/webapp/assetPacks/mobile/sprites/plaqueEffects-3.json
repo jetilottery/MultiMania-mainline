@@ -1,0 +1,75 @@
+{"frames": {
+
+"WinPlaqueGradientSweep_003":
+{
+	"frame": {"x":3,"y":3,"w":1196,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1196,"h":314},
+	"sourceSize": {"w":1196,"h":314},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueGradientSweep_010":
+{
+	"frame": {"x":1203,"y":3,"w":1196,"h":314},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1196,"h":314},
+	"sourceSize": {"w":1196,"h":314},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueGradientSweep_017":
+{
+	"frame": {"x":3,"y":321,"w":1196,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1196,"h":314},
+	"sourceSize": {"w":1196,"h":314},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueGradientSweep_027":
+{
+	"frame": {"x":3,"y":639,"w":1196,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1196,"h":314},
+	"sourceSize": {"w":1196,"h":314},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueGradientSweep_028":
+{
+	"frame": {"x":3,"y":957,"w":1196,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1196,"h":314},
+	"sourceSize": {"w":1196,"h":314},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueGradientSweep_038":
+{
+	"frame": {"x":1521,"y":3,"w":1196,"h":314},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1196,"h":314},
+	"sourceSize": {"w":1196,"h":314},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueGradientSweep_045":
+{
+	"frame": {"x":3,"y":1275,"w":1196,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1196,"h":314},
+	"sourceSize": {"w":1196,"h":314},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaqueEffects-3.jpg",
+	"format": "RGB888",
+	"size": {"w":1838,"h":1838},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3a596e44381ee890e663d9e013f60412:0882ba64f753134c6568a6f37cb03e81:67ec2ce86fedf89b3556ab4e76d8607c$"
+}
+}

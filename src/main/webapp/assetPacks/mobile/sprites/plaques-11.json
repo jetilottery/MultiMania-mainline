@@ -1,0 +1,156 @@
+{"frames": {
+
+"WinPlaqueStars_000":
+{
+	"frame": {"x":1479,"y":1542,"w":503,"h":470},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":84,"w":503,"h":470},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_001":
+{
+	"frame": {"x":953,"y":1037,"w":510,"h":477},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":81,"w":510,"h":477},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_002":
+{
+	"frame": {"x":464,"y":1051,"w":517,"h":485},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":77,"w":517,"h":485},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_003":
+{
+	"frame": {"x":1015,"y":1551,"w":460,"h":491},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":74,"w":460,"h":491},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_007":
+{
+	"frame": {"x":1434,"y":1033,"w":487,"h":505},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":61,"w":487,"h":505},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_010":
+{
+	"frame": {"x":499,"y":1572,"w":512,"h":470},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":107,"w":512,"h":470},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_013":
+{
+	"frame": {"x":1401,"y":520,"w":509,"h":490},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":99,"w":509,"h":490},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_016":
+{
+	"frame": {"x":1432,"y":3,"w":453,"h":508},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":144,"y":92,"w":453,"h":508},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_017":
+{
+	"frame": {"x":471,"y":3,"w":459,"h":514},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":89,"w":459,"h":514},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_018":
+{
+	"frame": {"x":3,"y":3,"w":464,"h":520},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":86,"w":464,"h":520},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_023":
+{
+	"frame": {"x":3,"y":1573,"w":472,"h":492},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":72,"w":472,"h":492},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_026":
+{
+	"frame": {"x":940,"y":520,"w":457,"h":513},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":63,"w":457,"h":513},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_029":
+{
+	"frame": {"x":3,"y":1051,"w":457,"h":518},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":71,"w":457,"h":518},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_039":
+{
+	"frame": {"x":3,"y":527,"w":520,"h":461},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":74,"w":520,"h":461},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_040":
+{
+	"frame": {"x":468,"y":527,"w":516,"h":468},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":71,"w":516,"h":468},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_045":
+{
+	"frame": {"x":934,"y":3,"w":513,"h":494},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":62,"w":513,"h":494},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaques-11.png",
+	"format": "RGBA8888",
+	"size": {"w":1952,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:be389184fc273201d3e07fc5e9fc73a9:ec5f1ffb4af9c5b3b872e523727c8735:116b23d700de157ab5851b5201ed1efb$"
+}
+}

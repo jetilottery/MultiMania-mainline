@@ -1,0 +1,156 @@
+{"frames": {
+
+"WinPlaqueStars_001":
+{
+	"frame": {"x":516,"y":3,"w":510,"h":477},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":81,"w":510,"h":477},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_003":
+{
+	"frame": {"x":1447,"y":1005,"w":460,"h":491},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":74,"w":460,"h":491},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_004":
+{
+	"frame": {"x":990,"y":493,"w":466,"h":499},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":70,"w":466,"h":499},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_006":
+{
+	"frame": {"x":3,"y":497,"w":479,"h":499},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":64,"w":479,"h":499},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_008":
+{
+	"frame": {"x":964,"y":1475,"w":497,"h":457},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":113,"w":497,"h":457},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_010":
+{
+	"frame": {"x":516,"y":484,"w":512,"h":470},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":107,"w":512,"h":470},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_013":
+{
+	"frame": {"x":3,"y":3,"w":509,"h":490},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":99,"w":509,"h":490},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_015":
+{
+	"frame": {"x":457,"y":1514,"w":447,"h":502},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":94,"w":447,"h":502},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_016":
+{
+	"frame": {"x":990,"y":963,"w":453,"h":508},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":144,"y":92,"w":453,"h":508},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_023":
+{
+	"frame": {"x":1493,"y":509,"w":472,"h":492},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":72,"w":472,"h":492},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_024":
+{
+	"frame": {"x":1465,"y":1469,"w":444,"h":499},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":123,"y":69,"w":444,"h":499},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_025":
+{
+	"frame": {"x":3,"y":1454,"w":450,"h":507},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":121,"y":66,"w":450,"h":507},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_027":
+{
+	"frame": {"x":1530,"y":3,"w":440,"h":502},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":79,"w":440,"h":502},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_028":
+{
+	"frame": {"x":510,"y":1000,"w":450,"h":510},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":75,"w":450,"h":510},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_043":
+{
+	"frame": {"x":1030,"y":3,"w":496,"h":486},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":64,"w":496,"h":486},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_060":
+{
+	"frame": {"x":3,"y":980,"w":503,"h":470},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":84,"w":503,"h":470},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaqueEffectsColor-3.png",
+	"format": "RGBA8888",
+	"size": {"w":1973,"h":1973},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f515373fa8673e1d733bebbf744c955b:824a601723247dbde44311683277ae3f:3d076db30b2c28a5dad035f67245fb7b$"
+}
+}

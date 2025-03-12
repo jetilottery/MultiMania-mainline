@@ -1,0 +1,81 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% to {@maxRTP}%",
+    "paybackTitle": "Expected Payback",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+    "subheading": "Ticket Cost: {ticketCost}",
+    "prizeLevel": "Prize Level",
+    "prizeValue": "Prize Value",
+    "overallChances": "There is a 1 in {odds} overall chance of winning a prize on each play.",
+    "prizeDivision": "Prize Division",
+    "prizeRemaining": "Approximate Prizes Remaining",
+    "oddsPerPlay": "Odds Per Play"
+
+  },
+  "title": "TEMPLATE",
+  "MenuCommand": {
+    "price": "Price",
+    "stake": "Stake",
+    "howToPlay": "Help",
+    "paytable": "Paytable",
+    "close": "Close",
+    "audio": {
+      "sound": "Sound",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Error: ",
+    "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+  },
+  "Game": {
+    "footer_balance": "BALANCE",
+    "footer_ticketCost": "TICKET COST",
+    "ticketSelect_ticketCost": "TICKET COST",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "TRY "
+    },
+    "footer_win": {
+      "BUY": "WIN",
+      "TRY": "DEMO WIN"
+    },
+
+    "button_buy": {
+      "BUY": "BUY",
+      "TRY": "TRY"
+    },
+    "button_try": "TRY",
+    "button_continue": "CONTINUE",
+    "button_moveToMoney": "MOVE TO MONEY",
+    "button_autoPlay": "REVEAL ALL",
+    "button_stop": "STOP",
+    "button_playAgain": {
+      "BUY": "PLAY AGAIN",
+      "TRY": "TRY AGAIN"
+    },
+    "button_tryAgain": "TRY AGAIN",
+    "button_ok": "OK",
+    "button_exit": "EXIT",
+	"button_retry": "RETRY",
+    "error_button_exit": "EXIT",
+    "error_title": "ERROR",
+
+    "message_nonWin": "BETTER LUCK\nNEXT TIME",
+    "message_win": {
+      "BUY": "CONGRATULATIONS!\nYOU HAVE WON",
+      "TRY": "THANKS FOR PLAYING!\nYOU COULD HAVE WON"
+    },
+
+    "howToPlay": "HOW TO PLAY",
+    "page1": "Match any LUCKY NUMBER to any YOUR NUMBER and win a prize.\n\nReveal a MULTIPLIER symbol and win a multiplied prize instantly!\n\nSelect a higher TICKET COST to increase the range of available MULTIPLIERS!",
+
+    "winUpTo": "WIN UP TO {0}",
+
+    "yourNumbers": "YOUR NUMBERS",
+    "luckyNumbers": "LUCKY NUMBERS"
+  }
+}

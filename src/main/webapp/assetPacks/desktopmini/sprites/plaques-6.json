@@ -1,0 +1,102 @@
+{"frames": {
+
+"WinPlaqueGradientSweep_022":
+{
+	"frame": {"x":3,"y":3,"w":1196,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1196,"h":314},
+	"sourceSize": {"w":1196,"h":314},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueGradientSweep_023":
+{
+	"frame": {"x":3,"y":321,"w":1196,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1196,"h":314},
+	"sourceSize": {"w":1196,"h":314},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueGradientSweep_024":
+{
+	"frame": {"x":3,"y":639,"w":1196,"h":314},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1196,"h":314},
+	"sourceSize": {"w":1196,"h":314},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueGradientSweep_025":
+{
+	"frame": {"x":321,"y":639,"w":1196,"h":314},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1196,"h":314},
+	"sourceSize": {"w":1196,"h":314},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueGradientSweep_026":
+{
+	"frame": {"x":639,"y":639,"w":1196,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1196,"h":314},
+	"sourceSize": {"w":1196,"h":314},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueGradientSweep_027":
+{
+	"frame": {"x":639,"y":957,"w":1196,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1196,"h":314},
+	"sourceSize": {"w":1196,"h":314},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueGradientSweep_028":
+{
+	"frame": {"x":639,"y":1275,"w":1196,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1196,"h":314},
+	"sourceSize": {"w":1196,"h":314},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_019":
+{
+	"frame": {"x":639,"y":1593,"w":450,"h":527},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":83,"w":450,"h":527},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_028":
+{
+	"frame": {"x":1170,"y":1593,"w":450,"h":510},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":75,"w":450,"h":510},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WinPlaqueStars_038":
+{
+	"frame": {"x":1203,"y":3,"w":512,"h":541},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":77,"w":512,"h":541},
+	"sourceSize": {"w":720,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaques-6.png",
+	"format": "RGBA8888",
+	"size": {"w":1838,"h":2046},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:be389184fc273201d3e07fc5e9fc73a9:ec5f1ffb4af9c5b3b872e523727c8735:116b23d700de157ab5851b5201ed1efb$"
+}
+}

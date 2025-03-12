@@ -1,0 +1,76 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% to {@maxRTP}%",
+    "paybackTitle": "Expected Payback",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+    "subheading": "Ticket Cost: {ticketCost}",
+    "prizeLevel": "Prize Level",
+    "prizeValue": "Prize Value"
+  },
+  "title": "TEMPLATE",
+  "MenuCommand": {
+    "price": "Price",
+    "stake": "Stake",
+    "howToPlay": "Help",
+    "paytable": "Paytable",
+    "close": "Close",
+    "audio": {
+      "sound": "Sound",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Error: ",
+    "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+  },
+  "Game": {
+    "footer_balance": "BALANCE BALANCE",
+    "footer_ticketCost": "TICKET COST TICKET COST",
+    "ticketSelect_ticketCost": "TICKET COST TICKET COST",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "TRY TRY "
+    },
+    "footer_win": {
+      "BUY": "WIN WIN",
+      "TRY": "DEMO WIN DEMO WIN"
+    },
+
+    "button_buy": {
+      "BUY": "BUY BUY",
+      "TRY": "TRY TRY"
+    },
+    "button_try": "TRY TRY",
+    "button_continue": "CONTINUE CONTINUE",
+    "button_moveToMoney": "MOVE TO MONEY MOVE TO MONEY",
+    "button_autoPlay": "REVEAL ALL REVEAL ALL",
+    "button_stop": "STOP STOP",
+    "button_playAgain": {
+      "BUY": "PLAY AGAIN PLAY AGAIN",
+      "TRY": "TRY AGAIN TRY AGAIN"
+    },
+    "button_tryAgain": "TRY AGAIN TRY AGAIN",
+    "button_ok": "OK OK",
+    "button_exit": "EXIT EXIT",
+	"button_retry": "RETRY RETRY",
+    "error_button_exit": "EXIT EXIT",
+    "error_title": "ERROR ERROR",
+
+    "message_nonWin": "BETTER LUCK\nNEXT TIME! BETTER LUCK\nNEXT TIME",
+    "message_win": {
+      "BUY": "CONGRATULATIONS!\nYOU HAVE WON CONGRATULATIONS!\nYOU HAVE WON",
+      "TRY": "THANKS FOR PLAYING!\nYOU COULD HAVE WON THANKS FOR PLAYING!\nYOU COULD HAVE WON"
+    },
+
+    "howToPlay": "HOW TO PLAY HOW TO PLAY",
+    "page1": "Match any LUCKY NUMBER to any YOUR NUMBER to win the prize shown for that number.\nFind a MULTIPLIER symbol to multiply an instant win prize! Match any LUCKY NUMBER to any YOUR NUMBER to win the prize shown for that number.\nFind a MULTIPLIER symbol to multiply an instant win prize!",
+
+    "winUpTo": "WIN UP TO WIN UP TO {0}",
+
+    "yourNumbers": "YOUR NUMBERS YOUR NUMBERS",
+    "luckyNumbers": "LUCKY NUMBERS LUCKY NUMBERS"
+  }
+}
